@@ -1,2 +1,7 @@
-# demo-dr-paladino-leonel-y-equipo
-Demo web para Dr. Paladino Leonel y Equipo — diseñada por eterlab.
+# Dr. Paladino Leonel y Equipo
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
